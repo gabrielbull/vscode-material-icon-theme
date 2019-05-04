@@ -593,6 +593,7 @@ export const fileIcons: FileIcons = {
                 '.env.local',
                 '.env.dev',
                 '.env.development',
+                '.env.debug',
                 '.env.prod',
                 '.env.production',
                 '.env.staging',
